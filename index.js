@@ -9,7 +9,7 @@ return object;
 }
 
 function deleteFromObjectByKey(object, key){
-Object.assign({}, object, {[key]: value});
+Object.assign({}, object, {[key]});
 delete {}.key;
 return {};
 }
