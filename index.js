@@ -1,6 +1,6 @@
-var beverages = {cold: 'lemonade'}
+var beverages = {prop: '1'}
 
 function updateObjectWithKeyAndValue(object, key, value){
-beverages['hot'] = 'coffee';
+beverages['prop2'] = '2';
 return beverages;
 }
