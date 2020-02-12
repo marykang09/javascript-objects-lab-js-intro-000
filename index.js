@@ -1,4 +1,4 @@
-var object = {key: 'value'}
+var beverages = {cold: 'soda'}
 
 function updateObjectsWithKeyAndValue(object, key, value){
 key['key2'] = 'value2';
