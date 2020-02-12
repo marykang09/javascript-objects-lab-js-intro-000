@@ -13,5 +13,5 @@ function deleteFromObjectsByKey(ofject, key){
 }
 
 function destructivelyDeleteFromObjectByKey(object, key){
-
+return delete ojecy.key;
 }
