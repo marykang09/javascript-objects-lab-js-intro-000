@@ -1,6 +1,6 @@
 var beverages = {cold: 'lemonade'}
 
-function updateObjectsWithKeyAndValue(object, key, value){
+function updateObjectWithKeyAndValue(object, key, value){
 beverages['hot'] = 'coffee';
 return beverages;
 }
