@@ -1,5 +1,5 @@
 
 function updateObjectWithKeyAndValue(object, key, value){
-object['prop2'] = '2';
+object['key2'] = 'value2';
 return object;
 }
